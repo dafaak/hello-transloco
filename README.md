@@ -19,7 +19,7 @@ ng g c hello-world
 
 tenemos algo como esto:
 
-![archivos](https://drive.google.com/file/d/1vZnHYVforgvJl6dg-qAWZMhnJLPCwGal/view?usp=sharing)
+![archivos](/imagenes/archivos-angular.png)
 
 añadimos la ruta al app-routing.module.ts
 
@@ -52,7 +52,7 @@ ng add @ngneat/transloco
 ```
 Para este ejemplo necesitaremos el idioma español e inglés
 
-![inst-trans](https://drive.google.com/file/d/1OeHuDTa5jkQJI0QPuwAS9Qmfd4rG7OD3/view?usp=sharing)
+![inst-trans](/imagenes/inst-transloco.png)
 
 como resultado se crea el módulo de transloco que contiene  las configuraciones del mismo, aqui podemos definir el idioma por defecto, con defaultLang, en este caso será español, además para poder cambiar el idioma dinamicamente debemos tener la propiedad reRenderOnLangChange: true 
  ``` typescript
@@ -121,7 +121,7 @@ Para esto simplemente utilizamos la etiqueta <ng-container> de la siguiente form
 ```
 traduccion será la variable que recorra los json dependiendo del idioma establecido en la configuración
 
-![tr](https://drive.google.com/file/d/1oFNbsq2ujaI0JsAbkeqc9P0lmPzSb-hu/view?usp=sharing)
+![tr](/imagenes/transloco-hola.png)
 
 También podemos cambiarlo dinamicamente utilizando la función translate del servicio de transloco, para esto debemos inyectar el servicio de transloco en el componente y crearemos una función para cambiar de idioma usando un botón
 
@@ -165,6 +165,6 @@ Ahora utilizaramos ese funcion en un botón
 ```
 y podremos cambiar el idioma dinamicamente! 
 
-![hola](https://drive.google.com/file/d/1NVxY5nG9Da5cMIm6Iiw1sbILIC1MH1wW/view?usp=sharing)
+![hola](/imagenes/boton-hola.png)
 
-![hello](https://drive.google.com/file/d/1Mp6-Txzcp6xK2YLOhmTgg1L8USawODWl/view)
+![hello](/imagenes/boton-hello.png)
