@@ -18,7 +18,7 @@ export class HelloWorldComponent implements OnInit {
     const idiomaActual = this._translocoService.getActiveLang();
     let cambiarA: string;
     idiomas.forEach(idioma => {
-      if (idioma != idiomaActual) {
+      if (idioma !== idiomaActual) {
         cambiarA = idioma;
       }
     })
