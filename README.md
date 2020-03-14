@@ -167,4 +167,4 @@ y podremos cambiar el idioma dinamicamente!
 
 ![hola](https://drive.google.com/file/d/1NVxY5nG9Da5cMIm6Iiw1sbILIC1MH1wW/view?usp=sharing)
 
-![hello](https://drive.google.com/file/d/1Mp6-Txzcp6xK2YLOhmTgg1L8USawODWl/view?usp=sharing)
+![hello](https://drive.google.com/file/d/1Mp6-Txzcp6xK2YLOhmTgg1L8USawODWl/view)
