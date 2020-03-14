@@ -10,7 +10,7 @@ ng new hello-transloco
 ```
  y respondemos a las preguntas que se nos hará:
  
- ![angular](https://drive.google.com/file/d/1Ae5PekI4nnZow-WsWt7PUWAZHA2Op_n5/view?usp=sharing)
+ ![angular](/imagenes/intalacion-angular.png)
 
 A continuación creamos un componente  
 ```
